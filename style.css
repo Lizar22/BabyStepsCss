@@ -10,7 +10,7 @@ header {
 
 h2 {
     background-color: gray;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     padding: 5px;
 }
 
@@ -154,12 +154,89 @@ ol li:nth-child(20) {
 }
 table {
     font-family: sans-serif;
-    font-weight: bold;
+    font-weight: 550;
     margin: auto;
-    color: wheat;
-    width: 27em;
-    font-size: medium;
+    color: rgb(240, 236, 230);
+    font-size: small;
+    border-collapse: collapse;
 }
+table td {
+    width: 100px;
+    height: 30px;
+    padding-left: 10px;
+}
+
+.blue-gray {
+    background-color: #0F172B;
+}
+.cool-gray {
+    background-color: #364152;
+}
+.warm-gray {
+    background-color: #77716C;
+}
+.amber {
+    background-color: #B45309;
+}
+.green {
+    background-color: #13522D;
+}
+.gray {
+    background-color: #28272A;
+}
+.red {
+    background-color: #DC2626;
+}
+.yellow {
+    background-color: #F69E0A;
+}
+.emerald {
+    background-color: #065F45;
+}
+.true-gray {
+    background-color: #404040;
+}
+.orange {
+    background-color: #EA590C;
+}
+.lime {
+    background-color: #4D7C0F;
+}
+.teal {
+    background-color: #124E49;
+}
+.fuchsia {
+    background-color: #A31CB0;
+}
+.pink {
+    background-color: #BE185E;
+}
+.rose {
+    background-color: #F4405F;
+}
+.purple {
+    background-color: #6C21AA;
+}
+.violet {
+    background-color: #4C1D96;
+}
+.indigo {
+    background-color: #322D81;
+}
+.blue {
+    background-color: #1D3A89;
+}
+.sky {
+    background-color: #0284C8;
+}
+.cyan {
+    background-color: #145E75;
+}
+
+
+
+
+
 
 
 h5 {
