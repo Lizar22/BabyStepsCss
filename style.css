@@ -1,18 +1,11 @@
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
-
 .exercise1 {
     width: 500px;
     margin: auto;
 }
 
-h1 {
+header {
     text-align: center;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    padding: 15px;
 }
 
 h2 {
@@ -45,8 +38,96 @@ h2 {
     width: 500px;
     margin: auto;
 }
+.title-colors1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 540;
+    text-align: center;
+}
 .list1 {
     columns: 4;
     list-style-type: none;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+ol li:first-child {
+    color: #42474D;
+    padding-bottom: 10px;
+}
+ol li:nth-child(2) {
+    color: rgb(19, 117, 117);
+    padding-bottom: 10px;
+}
+ol li:nth-child(3) {
+    color: rgb(46, 185, 240);
+    padding-bottom: 10px;
+}
+ol li:nth-child(4) {
+    color: rgb(182, 43, 182);
+    padding-bottom: 10px;
+}
+ol li:nth-child(5) {
+    color: purple;
+    padding-bottom: 10px;    
+}
+ol li:nth-child(6) {
+    color: gray;
+    padding-bottom: 10px;
+}
+ol li:nth-child(7) {
+    color: red;
+    padding-bottom: 10px;
+}
+ol li:nth-child(8) {
+    color: orange;
+    padding-bottom: 10px;
+}
+ol li:nth-child(9) {
+    color: pink;
+    padding-bottom: 10px;
+}
+ol li:nth-child(10) {
+    color: violet;
+    padding-bottom: 10px;
+}
+ol li:nth-child(11) {
+    color: rgb(199, 78, 34);
+    padding-bottom: 10px;
+}
+ol li:nth-child(12) {
+    color: yellow;
+    padding-bottom: 10px;
+}
+ol li:nth-child(13) {
+    color: lime;
+    padding-bottom: 10px;
+}
+ol li:nth-child(14) {
+    color: #EA4468;
+    padding-bottom: 10px;
+}
+ol li:nth-child(15) {
+    color: indigo;
+    padding-bottom: 10px;
+}
+ol li:nth-child(16) {
+    color: green;
+    padding-bottom: 10px;
+}
+ol li:nth-child(17) {
+    color: #0B5E41;
+    padding-bottom: 10px;
+}
+ol li:nth-child(18) {
+    color: teal;
+    padding-bottom: 10px;
+}
+ol li:nth-child(19) {
+    color: bluegray;
+    padding-bottom: 10px;
+}
+ol li:nth-child(20) {
+    color: rgb(45, 45, 156);
+    padding-bottom: 10px;
+}
+
+
+
