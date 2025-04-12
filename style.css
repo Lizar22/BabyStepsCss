@@ -148,6 +148,22 @@ ol li:nth-child(20) {
     padding-bottom: 10px;
     font-weight: bold;
 }
+.title-colors2 {
+    font-family: sans-serif;
+    text-align: center;
+}
+table {
+    font-family: sans-serif;
+    font-weight: bold;
+    margin: auto;
+    color: wheat;
+    width: 27em;
+    font-size: medium;
+}
 
+
+h5 {
+    text-align: center;
+}
 
 
